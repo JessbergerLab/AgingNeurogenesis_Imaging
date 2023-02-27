@@ -9,6 +9,6 @@ R scripts used to visualize and analyze hippocampal adult neural stem cells line
 
 # Data
 Data folder contains: 
-- The ROI information and 
+- The ROI information
 - The corresponding time information
 
